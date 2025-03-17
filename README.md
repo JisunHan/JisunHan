@@ -3,7 +3,11 @@
 - 🚀 Passionate about **React, TypeScript, and modern web technologies**  
 - 🌎 Enjoy contributing to **open-source projects** and continuously learning  
 - 🎨 Interested in **UI/UX, performance optimization, and web accessibility**  
-- 📫 Reach me at **hanccino@gmail.com**  
+- 💻 레거시와 React 모두를 경험한 프론트엔드 개발자
+- 🚀 웹 퍼블리셔 경력을 바탕으로 동적 UI/UX 개발 경험
+- 🌍 웹 접근성, 크로스 브라우징, 데이터 통신에 대한 이해
+- 🎯 지속 가능한 코드 작성과 성능 개선을 목표로 지속적으로 발전
+- 📫 Reach me at **hanccino@gmail.com**
 <br><br>
 
 
