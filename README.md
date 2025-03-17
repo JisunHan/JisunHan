@@ -32,8 +32,6 @@
 ## 💡 Most Used Languages 
 <p align="center">
   <a href="https://github.com/JisunHan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisunHan&layout=compact&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisunHan&layout=compact&show_icons=true&theme=dark&nclude_fork=true)" />
   </a>
 </p>
-
-
