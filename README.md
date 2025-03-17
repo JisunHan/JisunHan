@@ -33,9 +33,10 @@
 </p>
 <br><br>
 
-## 💡 Most Used Languages 
+## ✨ My Blog
 <p align="center">
-  <a href="https://github.com/JisunHan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisunHan&layout=compact&show_icons=true&theme=dark&nclude_fork=true)" />
+  <a href="https://velog.io/@hanccino/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-%23FF4081?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Blog" />
   </a>
 </p>
+
