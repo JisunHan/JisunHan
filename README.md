@@ -21,23 +21,19 @@
 <br><br>
 
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/JisunHan">
-    <img src="https://github-readme-stats.vercel.app/api?username=JisunHan&show_icons=true&theme=dark&hide_title=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JisunHan&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  </a>
+</p>
+<br><br>
+
+## 💡 Most Used Languages 
+<p align="center">
+  <a href="https://github.com/JisunHan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisunHan&layout=compact&show_icons=true&theme=dark" />
   </a>
 </p>
 
-## 🔥 Streak Stats  
-<p align="center">
-  <a href="https://github.com/JisunHan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JisunHan&theme=dark" />
-  </a>
-</p>
 
-## 💡 Most Used Languages  
-<p align="center">
-  <a href="https://github.com/JisunHan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisunHan&layout=compact&theme=dark&hide=html,css" />
-  </a>
-</p>
